@@ -7,4 +7,7 @@ A robust task tracking system with CRUD capabilities, crafted to simplify task m
 ● Dynamic UI updates through JavaScript event listeners and DOM operations for seamless CRUD
 operations.
 ● Secure task persistence through local storage methods, ensuring that tasks are never lost.
+
+![Uploading gshivatodos.ccbp.tech - Google Chrome 09-02-2024 17_38_49.png…]()
+
 # Technologies used: HTML, CSS, JS, Bootstra
