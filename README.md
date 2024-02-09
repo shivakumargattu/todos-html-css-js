@@ -12,4 +12,4 @@ operations.
 ● Secure task persistence through local storage methods, ensuring that tasks are never lost.
 
 
-# Technologies used: HTML, CSS, JS, Bootstra
+# Technologies used: HTML, CSS, JS, Bootstrap
